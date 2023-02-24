@@ -1,0 +1,17 @@
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\bin\Debug\net6.0-windows\loginWForms.exe
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\bin\Debug\net6.0-windows\loginWForms.deps.json
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\bin\Debug\net6.0-windows\loginWForms.runtimeconfig.json
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\bin\Debug\net6.0-windows\loginWForms.dll
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\bin\Debug\net6.0-windows\loginWForms.pdb
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\obj\Debug\net6.0-windows\loginWForms.csproj.AssemblyReference.cache
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\obj\Debug\net6.0-windows\loginWForms.Form1.resources
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\obj\Debug\net6.0-windows\loginWForms.csproj.GenerateResource.cache
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\obj\Debug\net6.0-windows\loginWForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\obj\Debug\net6.0-windows\loginWForms.AssemblyInfoInputs.cache
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\obj\Debug\net6.0-windows\loginWForms.AssemblyInfo.cs
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\obj\Debug\net6.0-windows\loginWForms.csproj.CoreCompileInputs.cache
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\obj\Debug\net6.0-windows\loginWForms.dll
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\obj\Debug\net6.0-windows\refint\loginWForms.dll
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\obj\Debug\net6.0-windows\loginWForms.pdb
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\obj\Debug\net6.0-windows\loginWForms.genruntimeconfig.cache
+C:\Users\Isahs\source\repos\loginWForms\loginWForms\obj\Debug\net6.0-windows\ref\loginWForms.dll
